@@ -9,9 +9,15 @@ https://chromedriver.chromium.org
 (Feel free to modify the code to use other browser, don't forget to get its driver.)
 
 1. Download driver as the same version as your chrome browser.  
-2. Unzip file and put the chromedriver exe file with the python in the same directory.  
-3. Run the file and enjoy it.  
+2. Unzip file and put the chromedriver exe file with the .py file in the same directory.  
 
-* Note: The opening window just support for one channcel at a time. If you want to "click" on another channel, please run it again for another channel.
+***Important!!!***  
+Run the file in **OS default terminal** by  
+`python Channel_Point_Clicker.py`  
+(Due to the mscvrt issues)  
 
-* Note2: Not very sure if the xpath or css is correct for other language twitch interface. Please comment or message me to let me know it, thanks!
+* Note1: You need to enter account/password and pass in the code which sent to your mail or pass the chaptcha thing by yourself. (If anyone need saving account function, just leave you message to let me know.)
+
+* Note2: The opening window just support for one channcel at a time. If you want to "click" on another channel, please run it again for another channel.
+
+* Note3: Not very sure if the xpath or css is correct for other language twitch interface. Please comment or message me to let me know it, thanks!
