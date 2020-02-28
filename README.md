@@ -18,6 +18,8 @@ Run the file in **OS default terminal** by
 
 * Note1: You need to enter account/password and pass in the code which sent to your mail or pass the chaptcha thing by yourself. (If anyone need saving account function, just leave you message to let me know.)
 
-* Note2: The opening window just support for one channcel at a time. If you want to "click" on another channel, please run it again for another channel.
+* Note2: Make sure your browser driver's version matches to your browser. 
 
-* Note3: Not very sure if the xpath or css is correct for other language twitch interface. Please comment or message me to let me know it, thanks!
+* Note3: The opening window just support for one channcel at a time. If you want to "click" on another channel, please run it again for another channel.
+
+* Note4: Not very sure if the xpath or css is correct for other language twitch interface. Please comment or message me to let me know it, thanks!
